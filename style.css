@@ -1,0 +1,12 @@
+body {
+  background-image: url("slika.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+
+}
+
+.forme {
+  margin-left:200px;
+  margin-top:200px;
+  position: relative;
+  }
